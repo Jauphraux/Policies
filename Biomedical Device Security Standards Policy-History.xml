@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/">
+         <dc:format>xml</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Johnson, Jeff: Info Security Specialist</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">PeaceHealth System Services</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Biomedical Device Security Standards Policy</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>Prince 12.4 (www.princexml.com)</pdf:Producer>
+         <xmp:CreatorTool>PolicyStat</xmp:CreatorTool>
+         <pdfuaid:part>1</pdfuaid:part>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="Biomedical Device Security Standards Policy">
+<destination structID="LinkTarget_172"/>
+<bookmark title="SCOPE">
+<destination structID="LinkTarget_173"/>
+</bookmark>
+<bookmark title="PURPOSE">
+<destination structID="LinkTarget_216"/>
+</bookmark>
+<bookmark title="DEFINITIONS">
+<destination structID="LinkTarget_218"/>
+</bookmark>
+<bookmark title="POLICY">
+<destination structID="LinkTarget_241"/>
+<bookmark title="Pre-Procurement Standards">
+<destination structID="LinkTarget_247"/>
+</bookmark>
+<bookmark title="Implementation Standards">
+<destination structID="LinkTarget_290"/>
+</bookmark>
+<bookmark title="Ongoing Maintenance, Management, and Use Standards">
+<destination structID="LinkTarget_591"/>
+</bookmark>
+<bookmark title="Removal, Replacement, or Repurpose of Biomedical Device Standards">
+<destination structID="LinkTarget_649"/>
+</bookmark>
+</bookmark>
+<bookmark title="COMPLIANCE">
+<destination structID="LinkTarget_672"/>
+</bookmark>
+<bookmark title="HELP">
+<destination structID="LinkTarget_676"/>
+</bookmark>
+<bookmark title="RELATED MATERIAL">
+<destination structID="LinkTarget_678"/>
+<bookmark title="Policies &amp; Procedures:">
+<destination structID="LinkTarget_679"/>
+</bookmark>
+</bookmark>
+<bookmark title="REFERENCES">
+<destination structID="LinkTarget_689"/>
+</bookmark>
+<bookmark title="PRE-POLICYSTAT APPROVALS">
+<destination structID="LinkTarget_706"/>
+<bookmark title="Initial Approval:">
+<destination structID="LinkTarget_707"/>
+</bookmark>
+<bookmark title="Subsequent Review/Revision(s):">
+<destination structID="LinkTarget_709"/>
+</bookmark>
+</bookmark>
+<bookmark title="All Revision Dates">
+<destination structID="LinkTarget_713"/>
+</bookmark>
+<bookmark title="Approval Signatures">
+<destination structID="LinkTarget_715"/>
+</bookmark>
+<bookmark title="Standards">
+<destination structID="LinkTarget_722"/>
+</bookmark>
+<bookmark title="History">
+<destination structID="LinkTarget_724"/>
+</bookmark>
+</bookmark>
+</bookmark-tree>
+
+<Document>
+<P></P>
+
+<P>Status </P>
+
+<P>Active </P>
+
+<P></P>
+
+<P>PolicyStat ID </P>
+
+<P>9024105 </P>
+<Figure Alt="Logo for PeaceHealth System Services">
+
+<ImageData src="images/Biomedical Device Security Standards Policy-History_img_0.jpg"/>
+</Figure>
+
+<P>Origination </P>
+
+<P>7/15/2020 </P>
+
+<P></P>
+
+<P>Last Approved </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Effective </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Next Review </P>
+
+<P>10/5/2023 </P>
+
+<P></P>
+
+<P>Owner </P>
+
+<Link>
+<Link>Jeff Johnson: Info Security Specialist </Link>
+</Link>
+
+<P>Area </P>
+
+<Link>
+<Link>Information Security </Link>
+</Link>
+
+<P>Applicability </P>
+
+<Link>
+<Link>PeaceHealth Systemwide </Link>
+</Link>
+
+<P>Tags </P>
+
+<P>
+<Link>Policy </Link>
+</P>
+
+<H1 id="LinkTarget_172">Biomedical Device Security Standards Policy </H1>
+
+<H2 id="LinkTarget_173">SCOPE </H2>
+
+<P>This policy applies to all biomedical devices managed by Clinical Engineering that are used to treat, monitor, or diagnose patients that connect to or have the ability to connect to the PeaceHealth computing environment or that are not network connected but create, store, process or transmit ePHI or other sensitive information at all PeaceHealth settings and services in the location(s) checked below: </P>
+
+<Table>
+<TR>
+<TD>✓ </TD>
+
+<TD>Ambulatory Surgery Center </TD>
+
+<TD>✓ </TD>
+
+<TD>PeaceHealth Medical Group </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Cottage Grove Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart RiverBend </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart University District </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Long Term Care </TD>
+
+<TD>✓ </TD>
+
+<TD>Southwest Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Harbor Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. John Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Island Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. Joseph Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Home &amp; Community </TD>
+
+<TD>✓ </TD>
+
+<TD>System Services Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Laboratories </TD>
+
+<TD>✓ </TD>
+
+<TD>United General Medical Center </TD>
+</TR>
+</Table>
+
+<H2 id="LinkTarget_216">PURPOSE </H2>
+
+<P>This policy identifies and describes the technical, administrative, and physical controls required to reduce the risk of cybersecurity threats that may jeopardize patient safety, regulatory compliance, and the confidentiality, integrity, and availability of PeaceHealth information systems and sensitive data. </P>
+
+<H2 id="LinkTarget_218">DEFINITIONS </H2>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Biomedical device: See Medical device. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Cryptographically erase: A method of sanitization in which the encryption key for the encrypted device is destroyed making recovery of the data infeasible. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Clear: A method of sanitization for the protection against data recovery techniques typically applied by rewriting, or overwriting, user addressable storage locations. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>End-of-life (End-of-service): Date signifying the diminished capacity to provide comprehensive support to address quality, performance, and security vulnerabilities. Support is not guaranteed beyond end-of-life although limited support may be available, end-of-service designates the time where all service support is terminated. For the purpose of this document, these terms are used interchangeably. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Medical device: Any network-connected device that is controlled by a computer that is used to monitor, treat, diagnose, or impact patient care, such as an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or another similar article including a component part or accessory. </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_241">POLICY </H2>
+
+<P>Where the below policies cannot reasonably or technically be implemented, recommended compensating controls are listed, and all or multiple compensating controls should be applied with preference given in the order they are listed, which is based on their effectiveness. Clinical Engineering will maintain documentation that outlines where compensating controls are used and in-place or should be implemented. </P>
+
+<P>This policy is applicable to all biomedical devices which will be purchased on or after September 1, 2020. As such, security exceptions to the requirements in this policy or the alternative compensating controls must be evaluated by Information Security and Clinical Engineering prior to implementing a non-standard solution, or prior to formally agreeing to implement a non-standard solution for any biomedical device which will be purchased on or after September 1, 2020. </P>
+
+<H3>Pre-Procurement Standards </H3>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>Equipment and Supplier Preference. Procure biomedical device systems, whenever possible and reasonable, where PeaceHealth has implemented the same or similar biomedical device and has established contacts and relationships with the supplier thereby using existing knowledge, interfaces, and other technical components (e.g., firewall rules), leverage purchasing power and to create consistency across the health system. </LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Enterprise Versus Standalone. Network connected biomedical device systems, whenever possible and reasonable, will be implemented as a system-wide solution versus a standalone solution. For example, if a biomedical device uses an application server, all PeaceHealth Divisions will use the same server, back-up strategy, interfaces, etc. rather than individual locations implementing standalone systems. </LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>Manufacturer/Supplier Security Documentation. The manufacturer or supplier must provide a Medical Device Security (MDS2) report, processes, and technical documentation for external access, authentication and authorization, monitoring, or other technical and security documentation as well as a bill of materials describing the component parts of the products including software versions, patch levels, patching plans and the product lifecycle/expectancy. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Clinical Engineering will maintain a copy of available MDS2 reports for all biomedical devices covered under the scope of this policy. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>Pre-procurement Security Risk Assessment. Obtain, through Clinical Engineering, a pre-procurement Security Risk Assessment for devices capable of storing, transmitting, or receiving data and have not had a review within the previous two-year period. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>For any &quot;inherent risk&quot; score of 90 or higher and an &quot;optimal score&quot; at or above 70 Clinical Engineering will engage the PeaceHealth Information Security department to conduct further evaluation of the solution. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Clinical Engineering should engage PeaceHealth Information Security, irrespective of the security scoring, when there are security questions or concerns. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>5. </Lbl>
+
+<LBody>Support. Network connected systems and their components will support software and firmware updates and patches. Only supported and patchable software, including operating systems, should be procured. Compensating Controls – Support and Updates: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Attention should be given to the expected effective life of the device to inform future planning relating to upgrades and replacements. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>6. </Lbl>
+
+<LBody>Device Security Capability Evaluation. Prior to procuring a biomedical device the purchaser and Clinical Engineering should review section 2.0, 3.0, and 4.0 to determine if the biomedical device being considered is capable of the policies specified, or if one or more of the compensating controls must be implemented for the specified standard, where applicable. </LBody>
+</LI>
+</L>
+
+<H3>Implementation Standards </H3>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>Asset Inventory. The biomedical device will be listed in the medical device inventory and include important information such as the vendor/supplier, product description, model, unique logical ID and/or physical ID, date of implementation, expected end-of-service/end-of-life, operating system version, etc. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>The device will have a unique logical and physical identifier, which can be the same value (e.g., last known IP address, MAC address, asset tag, serial number). </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>When a biomedical device requires specialized components, such as client applications, server-based applications, or other technical dependencies, these components will be inventoried in the TSP asset management system and knowledge articles, or other system documents that relate to the system will be linked to the inventory configuration item. </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>The biomedical device asset system of record will be managed by Clinical Engineering. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Device Configuration. The configuration of the biomedical device security control settings can be changed, and such changes can be performed by authorized entities only. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Changes to the configuration of a biomedical device security settings should follow established change and configuration management processes and procedures. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>Data Protection. All sensitive information and data will be encrypted in transit and at rest using an industry-accepted encryption mechanism and practice. Compensating Controls – Data at Rest: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Strong authentication mechanisms </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Tamper proof and detection mechanisms </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Physically safeguard unencrypted removable media storage and label the media </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Documented procedures for clearing, overwriting, or purging of storage media prior to the device leaving PeaceHealth premises and the destruction of storage media in the event there is not a method to clear, overwrite or purge information. </LBody>
+</LI>
+</L>
+Compensating Controls – Data in Transit: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Locally configured firewall to minimize unauthorized access and use </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion detection and prevention or network-based </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>Logical Access to Interfaces. The biomedical device should be configured to restrict logical access to its local and network interfaces and the protocols and services used by those interfaces to authorized entities only. </LBody>
+</LI>
+
+<LI>
+<Lbl>5. </Lbl>
+
+<LBody>Cyber Security/Vulnerability Disclosure Program. Network connected biomedical device manufacturers should inform Clinical Engineering of vulnerabilities that exist in the device and have a communication channel to report and inform Clinical Engineering of security weaknesses in order to evaluate the risk exposure and inform remediation actions. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>General expectations for notification and mitigation of biomedical device vulnerabilities are in line with the FDA Postmarket Management of Cybersecurity for Medical Devices Guidance. 
+<L>
+<LI>
+<Lbl>i. </Lbl>
+
+<LBody>For critical vulnerabilities, as defined by Common Vulnerability Scoring System (CVSS), the manufacturer and Clinical Engineering responsibilities are as follows: 
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>The manufacturer should communicate vulnerabilities within 30 days of discovery as well as guidance on applying temporary mitigation controls if applicable to Clinical Engineering; </LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Clinical Engineering in collaboration with TSP and Information Security will determine interim mitigation steps, if appropriate, upon notification by the manufacturer; </LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>The manufacturer should provide a permanent risk remediation solution within 60 days of discovery; and </LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>Clinical Engineering will apply the solution in a timely manner within 45 days from that manufacturer providing a permanent risk remediation solution. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>ii. </Lbl>
+
+<LBody>For high vulnerabilities, as defined by CVSS, and other vulnerabilities with a validated patch or permanent risk remediation solution Clinical Engineering will apply the solution in a timely manner. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+Compensating Controls – Cyber Security/Vulnerability Disclosure: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Network segmentation/device isolation </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Locally configured firewall to minimize unauthorized access and use </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion detection and prevention or network-based </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>6. </Lbl>
+
+<LBody>Software Update. A network connected biomedical device's software and firmware will be updatable by authorized entities, Clinical Engineering or the supplier/vendor, only using a secure mechanism (e.g., secure remote download) and the ability to verify and authenticate any update before installing it. Compensating Controls – Software Updates: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Network segmentation/device isolation </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Local or network-based firewall to minimize unauthorized access and use </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion detection and prevention or network-based </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>7. </Lbl>
+
+<LBody>Network Segmentation/Device Isolation. All network connected biomedical devices will be placed into a biomedical device virtual local area network or physically segregated network unless there is a justifiable business need otherwise. In the case of virtual segmentation, communication controls will be in-place that restrict access to the device by allowing only traffic on the virtual network that are required for system operation. Compensating Controls – Network Segmentation/Device Isolation: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>PeaceHealth's standard antimalware clients </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Patching of security vulnerabilities within 45 days of the manufacturer disclosing remediation solutions </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion prevention and detection or network-based </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Local or network firewall to minimize unauthorized access and use </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Logging of security and activity events and monitoring of such events </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Ensure that transport layer encryption is enabled </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>8. </Lbl>
+
+<LBody>Authentication. Network connected devices will be capable of centralized authentication using PeaceHealth's authentication domain. Non-network connected devices will employ one or more of the compensating controls for Authentication. Compensating Controls – Authentication: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Biometric or multifactor authentication </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Local authentication with a user ID and password with one or more of the following, eight characters or more, requires complexity (a combination of 3 or more of the following: upper case, lower case, special characters, numbers), account lockout due to unsuccessful attempts, disallow the reuse of the previous five passwords, allow individuals to reset their own passwords </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>9. </Lbl>
+
+<LBody>Unique User ID. The system will provide the ability to create and assign a unique user ID and password to each remote or local user. Compensating Controls – Unique User ID: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>When a non-unique user ID exists for administrator access (e.g., root, administrator) the password will be safeguarded and known only to authorized individuals. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>If the system uses a non-unique ID for standard users (i.e., non-administrators) there should be functionality that links the use of the non-unique user ID to an individual user (e.g., the system logs into the operating system with a generic user ID and the application uses a unique ID). </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>10. </Lbl>
+
+<LBody>Default Passwords. Default passwords, including those enabling privileged access, will be changed to long, complex passwords by Clinical Engineering. Should it not reasonable to change the default password based on service support agreements or other business limitations then at least one of the compensating controls defined below must be implemented. Compensating Controls – Default Passwords: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Knowledge of the password should be limited to those with a need to know </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>When feasible disable the account </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Maintain strong physical security of the device (e.g., behind locked doors) </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Network segmentation/device isolation </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>11. </Lbl>
+
+<LBody>Vendor Support Passwords. A unique user ID and password will be established for each vendor employee whenever possible and the login credentials should not be used for other organization support. Compensating Controls – Vendor Support Passwords: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>The password will be safeguarded and known only to authorized individuals </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>12. </Lbl>
+
+<LBody>Role-Based Access. Biomedical devices will provide levels of access that are assigned to individuals in a manner that provide the minimum privileges necessary for the intended use of data and functions. Compensating Controls – Role Base Access: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Limit knowledge, to the greatest extent possible, of any privileged account (e.g., administrator, root) user ID and password pair </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Proper access management; providing access only to individuals that require it and removing access when access is no longer required </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>13. </Lbl>
+
+<LBody>Antimalware. Network connected biomedical device will use the PeaceHealth's standard antimalware clients. Otherwise, the biomedical device manufacturer will directly support antimalware software, or antimalware will be cleared for operation by the manufacturer. Compensating Controls – Antimalware: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Network segmentation/device isolation </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Patching of critical security vulnerabilities by Clinical Engineering within 45 days of the manufacturer disclosing remediation solutions </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion prevention and detection or network-based </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Local or network firewall to minimize unauthorized access and use </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Logging of security and activity events and monitoring events </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Ensure that transport layer encryption is enabled </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Strong authentication controls (multifactor, biometrics, domain authentication, long and complex passwords) </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>14. </Lbl>
+
+<LBody>Security and Activity Logging. Biomedical devices will have logging enabled that records security and activity events with a date/time stamp, user ID, success/failure, and description of the action. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Audit logs will be retained locally for a period of time or based on storage space. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>The audit log will be restricted in access to only authorized users and for network connected systems have the capability to integrate with security information and event management system. </LBody>
+</LI>
+</L>
+Compensating Controls – Security and Activity Logging: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion prevention and detection or network-based </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>15. </Lbl>
+
+<LBody>Limitations on the Use of Removable Media. USB ports, CD/DVD drives, and similar ports used with removable media will be disabled or locked by Clinical Engineering or vendor to prevent usage by unauthorized individuals. Compensating Controls – Use of Removable Media: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Of the ports available only those necessary for the intended use of the system should be enabled </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Policy, procedure, and training on the appropriate use of the device </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>16. </Lbl>
+
+<LBody>Physical Security. When possible biomedical devices will be placed in a physically secure area (e.g., behind locked doors, behind doors requiring badge entry) and workflows documented that limit access to the device by non-authorized users (e.g., patient must always be accompanied with an authorized user and not left alone with the device). Compensating Controls – Physical Security: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Inactivity timeouts enabled </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Default passwords have been changed </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Strong authentication mechanisms have been enabled </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Procedures, policy, and training on the appropriate use and safeguarding of the device </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>17. </Lbl>
+
+<LBody>Inactivity Timeouts/Screen Locking/Auto Logoff. The system will be capable of manually or automatically locking the display and requiring user authentication after a configurable period of inactivity. Compensating Controls – Inactivity and Locking: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Physical security controls should be enforced to minimize unauthorized access </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Access and activity monitoring should be enabled </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Unique user IDs are used </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Default passwords have been changed </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Policy, procedure and training to address the risk of unauthorized access </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>18. </Lbl>
+
+<LBody>Post-implementation Security Risk Assessment. Clinical Engineering will conduct a security risk assessment of the biomedical device during implementation or post-implementation and annually reassessed and when there are significant changes to the system or its operating environment. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Clinical Engineering will provide to PeaceHealth Information Security all post-implementation security risk assessments. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>When risk assessment findings reveal security risks that exceed an &quot;optimal&quot; risk score of 70 the PeaceHealth Information Security Department will be engaged by Clinical Engineering to evaluate the risks and address appropriate remediation strategies. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+
+<H3>Ongoing Maintenance, Management, and Use Standards </H3>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>Asset Inventory. Clinical Engineering is responsible to ensure that any changes to the biomedical device, its components, or security risk information will be documented/updated in the appropriate asset inventories. </LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Remote Access. For network connect devices, when remote access is required to manage or support the device SecureLink will be used. Compensating Controls – Remote Access: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>A secure remote access method (one that employs transport layer security) where an authorized user of the system accepts the connection and monitors the activity of the vendor with an ability to disconnect the session </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>A VPN (virtual private network) solution, client-based or site-to-site </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>A remote access solution that uses multifactor authentication </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>Routine Patching. Network connected biomedical devices should receive software and firmware updates and patches that address quality, performance, and security vulnerabilities approved for installation by the manufacturer. Patches will be applied in an automated manner or manually by the Clinical Engineering team, the manufacturer or other authorized support/service entity on a defined basis for the type of biomedical device and its usage. Compensating Controls – Patching: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Network segmentation/device isolation </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>PeaceHealth's standard antimalware client </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Host-based intrusion prevention and detection or network based </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Local logging of security events </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>Incident Response. If there is an incident pertaining to the biomedical device that causes, or could cause, a security or privacy implication the incident will be reported to the PeaceHealth Service Desk immediately. </LBody>
+</LI>
+
+<LI>
+<Lbl>5. </Lbl>
+
+<LBody>Back-ups. The biomedical device will have the capability to automatically or manually back-up data necessary for the intended use at a frequency recommended by the vendor and in alignment with business requirements unless there are no requirements for back-ups and no impact due to system failure resulting in data loss. </LBody>
+</LI>
+
+<LI>
+<Lbl>6. </Lbl>
+
+<LBody>Access Management. Access will be removed by authorized personnel in a timely manner due to terminations, transfers or when an individual no longer requires access. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Administrators, or other authorized individuals, of the device will annually review access to ensure only individuals that need access have access and that the level of access assigned is appropriate. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+
+<H3>Removal, Replacement, or Repurpose of Biomedical Device Standards </H3>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>Data Destruction. When a biomedical device stores ePHI temporarily or permanently procedures will exist to properly clear or destroy information prior to the device leaving PeaceHealth premises, or when the device will be repurposed within PeaceHealth including transfer of the device to Education and Training departments. 
+<L>
+<LI>
+<Lbl>i. </Lbl>
+
+<LBody>In the case of a system failure, where there is not an ability to cryptographically erase data, overwrite data, or other approved methods of data removal, the storage media will be destroyed (e.g., incinerate, shred, degauss, etc.). </LBody>
+</LI>
+</L>
+Compensating Controls – Data Destruction: 
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>The contract with the vendor should adequately describe how the vendor or supplier will ensure the destruction of PeaceHealth data </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>Asset Inventory. When a biomedical device is removed from the environment Clinical Engineering will ensure the device and any of its components are removed, or marked as inactive or similar, from asset inventories. 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Any required client software or other components of the medical device that will also no longer be used will also be removed from inventories and removed from the PeaceHealth environment. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_672">COMPLIANCE </H2>
+
+<P>Individuals included in the scope of this policy and biomedical devices purchased on or after September 1, 2020 are required to comply with the policy and all associated policies and procedures. Violations are subject to removal of access and/or corrective action, up to and including termination of employment or other business relationship with PeaceHealth. Any deviations from security policies observed in the production environment must be communicated to Information Security immediately upon discovery. If an exception to this policy is necessary, it must be submitted in accordance with the Information Security Exceptions Policy. </P>
+
+<H2 id="LinkTarget_676">HELP </H2>
+
+<P>Additional information may be obtained by contacting the PeaceHealth Service Desk. </P>
+
+<H2 id="LinkTarget_678">RELATED MATERIAL </H2>
+
+<H3 id="LinkTarget_679">Policies &amp; Procedures: </H3>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Information Security Exceptions Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Information Security Program Policy </Link>
+</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_689">REFERENCES </H2>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>45 CFR § 164.308 Administrative Safeguards </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>45 CFR § 164.310 Physical Safeguards </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>45 CFR § 164.312 Technical Safeguards </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>NIST Special Publication 800-53, Revision 4 </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>NIST Special Publication 800-66, Revision 1 </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_706">PRE-POLICYSTAT APPROVALS </H2>
+
+<H3 id="LinkTarget_707">Initial Approval: </H3>
+
+<P>Jeff Bird, System Vice President of Information Security, approved this policy on 07/15/2020 NCPSC reviewed on 07/15/2020 </P>
+
+<H3 id="LinkTarget_709">Subsequent Review/Revision(s): </H3>
+
+<P>Jeff Bird, System Vice President of Information Security, approved this policy on 08/25/2020 NCPSC reviewed on 09/09/2020 </P>
+
+<P>Formerly known as document number 900.1.436 </P>
+
+<H2 id="LinkTarget_713">All Revision Dates </H2>
+10/5/2020, 7/15/2020 
+<H2 id="LinkTarget_715">Approval Signatures </H2>
+
+<P>Step Description </P>
+
+<P>Approver </P>
+
+<P>Date </P>
+
+<H2 id="LinkTarget_722">Standards </H2>
+
+<P>No standards are associated with this document </P>
+
+<H2 id="LinkTarget_724">History </H2>
+
+<P>Initial import on 12/21/2020, 2:38AM EST </P>
+
+<P>Accepted by Eubanks, Tammy: Prog Coord Policy Admin on 1/11/2021, 3:54PM EST </P>
+Administrator override by Hogan, Shaina: Dir Policy Admin on 2/2/2021, 7:23PM EST 
+<P>Moved from IT to Information Security </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 5/10/2021, 4:12PM EDT 
+<P>Update to links and dates </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 2/24/2022, 10:50AM EST 
+<P>Changed owner from Kerrie Morin to Jeff Johnson </P>
+Administrator override by Woods, Gloria: Policy Generalist on 12/13/2022, 3:10PM EST 
+<P>Updated to current template: added newest Scope table; split Related Material (relabeled subheading) and References; moved Definitions (deleted obsolete PHD definition) and bulleted; reworked subheadings to show on TOC. </P>
+</Document>
+</TaggedPDF-doc>

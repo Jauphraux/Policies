@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/">
+         <dc:format>xml</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Johnson, Jeff: Info Security Specialist</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">PeaceHealth System Services</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Contingency Planning Policy</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>Prince 12.4 (www.princexml.com)</pdf:Producer>
+         <xmp:CreatorTool>PolicyStat</xmp:CreatorTool>
+         <pdfuaid:part>1</pdfuaid:part>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="Contingency Planning Policy">
+<destination structID="LinkTarget_147"/>
+<bookmark title="SCOPE">
+<destination structID="LinkTarget_148"/>
+</bookmark>
+<bookmark title="PURPOSE">
+<destination structID="LinkTarget_191"/>
+</bookmark>
+<bookmark title="DEFINITIONS">
+<destination structID="LinkTarget_193"/>
+</bookmark>
+<bookmark title="POLICY">
+<destination structID="LinkTarget_211"/>
+</bookmark>
+<bookmark title="COMPLIANCE">
+<destination structID="LinkTarget_287"/>
+</bookmark>
+<bookmark title="HELP">
+<destination structID="LinkTarget_289"/>
+</bookmark>
+<bookmark title="RELATED MATERIAL">
+<destination structID="LinkTarget_291"/>
+<bookmark title="Policies &amp; Procedures:">
+<destination structID="LinkTarget_292"/>
+</bookmark>
+</bookmark>
+<bookmark title="REFERENCES">
+<destination structID="LinkTarget_306"/>
+</bookmark>
+<bookmark title="Pre-PolicyStat Approvals">
+<destination structID="LinkTarget_319"/>
+<bookmark title="Initial Approval:">
+<destination structID="LinkTarget_319"/>
+</bookmark>
+</bookmark>
+<bookmark title="All Revision Dates">
+<destination structID="LinkTarget_319"/>
+</bookmark>
+<bookmark title="Approval Signatures">
+<destination structID="LinkTarget_321"/>
+</bookmark>
+<bookmark title="Standards">
+<destination structID="LinkTarget_328"/>
+</bookmark>
+<bookmark title="History">
+<destination structID="LinkTarget_330"/>
+</bookmark>
+</bookmark>
+</bookmark-tree>
+
+<Document>
+<P></P>
+
+<P>Status </P>
+
+<P>Active </P>
+
+<P></P>
+
+<P>PolicyStat ID </P>
+
+<P>9023912 </P>
+<Figure Alt="Logo for PeaceHealth System Services">
+
+<ImageData src="images/Contingency Planning Policy-History_img_0.jpg"/>
+</Figure>
+
+<P>Origination </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Last Approved </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Effective </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Next Review </P>
+
+<P>10/5/2023 </P>
+
+<P></P>
+
+<P>Owner </P>
+
+<Link>
+<Link>Jeff Johnson: Info Security Specialist </Link>
+</Link>
+
+<P>Area </P>
+
+<Link>
+<Link>Information Security </Link>
+</Link>
+
+<P>Applicability </P>
+
+<Link>
+<Link>PeaceHealth Systemwide </Link>
+</Link>
+
+<P>Tags </P>
+
+<P>
+<Link>Policy </Link>
+</P>
+
+<H1 id="LinkTarget_147">Contingency Planning Policy </H1>
+
+<H2 id="LinkTarget_148">SCOPE </H2>
+
+<P>This policy applies to all PeaceHealth settings and services in the location(s) checked below: </P>
+
+<Table>
+<TR>
+<TD>✓ </TD>
+
+<TD>Ambulatory Surgery Center </TD>
+
+<TD>✓ </TD>
+
+<TD>PeaceHealth Medical Group </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Cottage Grove Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart RiverBend </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart University District </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Long Term Care </TD>
+
+<TD>✓ </TD>
+
+<TD>Southwest Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Harbor Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. John Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Island Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. Joseph Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Home &amp; Community </TD>
+
+<TD>✓ </TD>
+
+<TD>System Services Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Laboratories </TD>
+
+<TD>✓ </TD>
+
+<TD>United General Medical Center </TD>
+</TR>
+</Table>
+
+<H2 id="LinkTarget_191">PURPOSE </H2>
+
+<P>The purpose of this policy is to establish requirements for contingency planning for PeaceHealth information systems to aid in protecting the confidentiality, integrity, and availability of PeaceHealth's information systems. </P>
+
+<H2 id="LinkTarget_193">DEFINITIONS </H2>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Information system: A discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Maximum tolerable downtime (MTD): The MTD represents the total amount of time the system owner/authorizing official is willing to accept for a mission/business process outage or disruption and includes all impact considerations. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Recovery point objective (RPO): The point in time, prior to a disruption or system outage, to which mission/business process data can be recovered (given the most recent backup copy of the data) after an outage. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Recovery time objective (RTO): The maximum amount of time that a system resource can remain unavailable before there is an unacceptable impact on other system resources, supported mission/business processes, and the MTD. </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_211">POLICY </H2>
+
+<P>It is the policy of PeaceHealth that the following requirements are implemented to support contingency planning for PeaceHealth information systems: </P>
+
+<L>
+<LI>
+<Lbl>1. </Lbl>
+
+<LBody>PeaceHealth develops and maintains a contingency plan for a disruption, compromise, or failure of the information system that has the following attributes: 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>The plan identifies mission-critical functions and associated contingency requirements; </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>The plan establishes recovery point objectives (RPO), recovery time objectives (RTO), and maximum tolerable downtime (MTD); </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>The plan lists roles and responsibilities, assigns individuals to those roles and responsibilities, and lists the contact information for those individuals; </LBody>
+</LI>
+
+<LI>
+<Lbl>d. </Lbl>
+
+<LBody>The plan addresses maintaining mission-critical systems and functions; and </LBody>
+</LI>
+
+<LI>
+<Lbl>e. </Lbl>
+
+<LBody>The plan addresses full information system restoration while maintaining the security safeguards that were originally implemented. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>2. </Lbl>
+
+<LBody>PeaceHealth ensures that the contingency plan is reviewed and approved by executive leadership, including Technology Solutions Partners (TSP) and Information Security leadership, prior to plan implementation. </LBody>
+</LI>
+
+<LI>
+<Lbl>3. </Lbl>
+
+<LBody>PeaceHealth provides training to users that is consistent with the user's responsibilities during activation of the contingency plan. </LBody>
+</LI>
+
+<LI>
+<Lbl>4. </Lbl>
+
+<LBody>PeaceHealth tests the contingency plan at least annually and updates the plan if testing finds the plan to be insufficient to meet business objectives. </LBody>
+</LI>
+
+<LI>
+<Lbl>5. </Lbl>
+
+<LBody>PeaceHealth establishes an alternate storage site that has the following characteristics: 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>The site accommodates the storage and retrieval of information system backups as specified in the PeaceHealth Contingency Plan; </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>The site provides information security safeguards that are equivalent to those of the primary site; and </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>The alternate site is geographically distinct from the primary site. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>6. </Lbl>
+
+<LBody>PeaceHealth establishes an alternate processing site that has the following characteristics: 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>The site meets requirements as specified in the PeaceHealth Contingency Plan for the resumption of essential business functions when the primary site becomes unavailable; </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>The site provides information security safeguards that are equivalent to those of the primary site; and </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>The alternate site is geographically distinct from the primary site. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>7. </Lbl>
+
+<LBody>PeaceHealth establishes alternate telecommunications services to ensure that mission-critical business functions that are reliant upon telecommunications meet PeaceHealth continuity requirements as specified in the PeaceHealth Contingency Plan. </LBody>
+</LI>
+
+<LI>
+<Lbl>8. </Lbl>
+
+<LBody>PeaceHealth does the following regarding information system backups: 
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Creates and maintains retrievable exact copies of electronic protected health information (ePHI); </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Creates and maintains backups of user-level information, system-level information, and information system documentation; and </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>Protects the confidentiality, integrity, and availability of backup information at all storage locations. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>9. </Lbl>
+
+<LBody>PeaceHealth provides for the recovery and return to normal operation of the information system after a disruption, compromise, or failure. </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_287">COMPLIANCE </H2>
+
+<P>Individuals included in the scope of this policy are required to comply with the policy and all associated policies and procedures. Violations are subject to removal of access and/or corrective action, up to and including termination of employment or other business relationship with PeaceHealth. Any deviations from security policy must be communicated to Information Security immediately upon discovery. </P>
+
+<H2 id="LinkTarget_289">HELP </H2>
+
+<P>Additional information may be obtained by contacting the PeaceHealth Service Desk. </P>
+
+<H2 id="LinkTarget_291">RELATED MATERIAL </H2>
+
+<H3 id="LinkTarget_292">Policies &amp; Procedures: </H3>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Data Protection Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Data Recovery Capabilities Standards Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Information Security Program Policy </Link>
+</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_306">REFERENCES </H2>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>NIST Special Publication 800-53, Revision 4 </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>NIST Special Publication 800-66, Revision 1 </LBody>
+</LI>
+</L>
+
+<H2>Pre-PolicyStat Approvals </H2>
+
+<H3>Initial Approval: </H3>
+
+<P>Jeff Bird, System Vice President of Information Security approved this policy on 08/25/2020 NCPSC reviewed on 09/09/2020 </P>
+
+<P>Formerly known as document number 900.1.446 </P>
+
+<H2 id="LinkTarget_319">All Revision Dates </H2>
+10/5/2020 
+<H2 id="LinkTarget_321">Approval Signatures </H2>
+
+<P>Step Description </P>
+
+<P>Approver </P>
+
+<P>Date </P>
+
+<H2 id="LinkTarget_328">Standards </H2>
+
+<P>No standards are associated with this document </P>
+
+<H2 id="LinkTarget_330">History </H2>
+
+<P>Initial import on 12/21/2020, 12:56AM EST </P>
+
+<P>Accepted by Eubanks, Tammy: Prog Coord Policy Admin on 1/11/2021, 3:54PM EST </P>
+Administrator override by Hogan, Shaina: Dir Policy Admin on 2/2/2021, 7:23PM EST 
+<P>Moved from IT to Information Security </P>
+Origination date changed by Eubanks, Tammy: Prog Coord Policy Admin on 5/10/2021, 4:49PM EDT 
+<P>The origination date was changed to 10/5/2020 </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 5/10/2021, 4:49PM EDT 
+<P>Update to links and dates </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 2/24/2022, 10:50AM EST 
+<P>Changed owner from Kerrie Morin to Jeff Johnson </P>
+Administrator override by Woods, Gloria: Policy Generalist on 12/13/2022, 4:43PM EST 
+<P>Updated to current template: added newest Scope table; split Related Material (relabeled subheading) and References; moved Definitions (deleted obsolete PHD definition) and bulleted; </P>
+
+<P>Draft saved by Johnson, Jeff: Info Security Specialist on 4/21/2023, 4:04PM EDT </P>
+</Document>
+</TaggedPDF-doc>

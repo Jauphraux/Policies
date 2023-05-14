@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Created from PDF via Acrobat SaveAsXML -->
+<!-- Mapping Table version: 28-February-2003 -->
+<TaggedPDF-doc>
+<?xpacket begin='﻿' id='W5M0MpCehiHzreSzNTczkc9d'?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 9.1-c001 79.2a0d8d9, 2023/03/14-11:19:46        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdfuaid="http://www.aiim.org/pdfua/ns/id/">
+         <dc:format>xml</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>Johnson, Jeff: Info Security Specialist</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">PeaceHealth System Services</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Access to PeaceHealth Information Systems Policy</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <pdf:Producer>Prince 12.4 (www.princexml.com)</pdf:Producer>
+         <xmp:CreatorTool>PolicyStat</xmp:CreatorTool>
+         <pdfuaid:part>1</pdfuaid:part>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+<?xpacket end='r'?>
+<bookmark-tree>
+<bookmark title="Access to PeaceHealth Information Systems Policy">
+<destination structID="LinkTarget_182"/>
+<bookmark title="SCOPE">
+<destination structID="LinkTarget_183"/>
+</bookmark>
+<bookmark title="PURPOSE">
+<destination structID="LinkTarget_226"/>
+</bookmark>
+<bookmark title="DEFINITIONS">
+<destination structID="LinkTarget_228"/>
+</bookmark>
+<bookmark title="POLICY">
+<destination structID="LinkTarget_262"/>
+<bookmark title=" Individual User Accounts">
+<destination structID="LinkTarget_265"/>
+</bookmark>
+<bookmark title=" User Responsibilities and Limitations">
+<destination structID="LinkTarget_297"/>
+</bookmark>
+<bookmark title=" Management Responsibilities">
+<destination structID="LinkTarget_333"/>
+</bookmark>
+<bookmark title=" Reinstatement of Terminated Users">
+<destination structID="LinkTarget_340"/>
+</bookmark>
+</bookmark>
+<bookmark title="COMPLIANCE">
+<destination structID="LinkTarget_346"/>
+</bookmark>
+<bookmark title="HELP">
+<destination structID="LinkTarget_348"/>
+</bookmark>
+<bookmark title="RELATED MATERIAL">
+<destination structID="LinkTarget_350"/>
+<bookmark title="Policies &amp; Procedures:">
+<destination structID="LinkTarget_351"/>
+</bookmark>
+</bookmark>
+<bookmark title="PRE-POLICYSTAT APPROVALS">
+<destination structID="LinkTarget_393"/>
+<bookmark title="Initial Approval:">
+<destination structID="LinkTarget_394"/>
+</bookmark>
+<bookmark title="Subsequent Review/Revision(s):">
+<destination structID="LinkTarget_396"/>
+</bookmark>
+</bookmark>
+<bookmark title="All Revision Dates">
+<destination structID="LinkTarget_400"/>
+</bookmark>
+<bookmark title="Approval Signatures">
+<destination structID="LinkTarget_402"/>
+</bookmark>
+<bookmark title="Standards">
+<destination structID="LinkTarget_409"/>
+</bookmark>
+<bookmark title="History">
+<destination structID="LinkTarget_411"/>
+</bookmark>
+</bookmark>
+</bookmark-tree>
+
+<Document>
+<P></P>
+
+<P>Status </P>
+
+<P>Active </P>
+
+<P></P>
+
+<P>PolicyStat ID </P>
+
+<P>9023960 </P>
+<Figure Alt="Logo for PeaceHealth System Services">
+
+<ImageData src="images/Access to PeaceHealth Information Systems Policy-History_img_0.jpg"/>
+</Figure>
+
+<P>Origination </P>
+
+<P>7/1/2008 </P>
+
+<P></P>
+
+<P>Last Approved </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Effective </P>
+
+<P>10/5/2020 </P>
+
+<P></P>
+
+<P>Next Review </P>
+
+<P>10/5/2023 </P>
+
+<P></P>
+
+<P>Owner </P>
+
+<Link>
+<Link>Jeff Johnson: Info Security Specialist </Link>
+</Link>
+
+<P>Area </P>
+
+<Link>
+<Link>Information Security </Link>
+</Link>
+
+<P>Applicability </P>
+
+<Link>
+<Link>PeaceHealth Systemwide </Link>
+</Link>
+
+<P>Tags </P>
+
+<P>
+<Link>Policy </Link>
+</P>
+
+<H1 id="LinkTarget_182">Access to PeaceHealth Information Systems Policy </H1>
+
+<H2 id="LinkTarget_183">SCOPE </H2>
+
+<P>This policy applies to all PeaceHealth settings and services in the location(s) checked below: </P>
+
+<Table>
+<TR>
+<TD>✓ </TD>
+
+<TD>Ambulatory Surgery Center </TD>
+
+<TD>✓ </TD>
+
+<TD>PeaceHealth Medical Group </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Cottage Grove Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart RiverBend </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>Sacred Heart University District </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Ketchikan Long Term Care </TD>
+
+<TD>✓ </TD>
+
+<TD>Southwest Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Harbor Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. John Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>Peace Island Medical Center </TD>
+
+<TD>✓ </TD>
+
+<TD>St. Joseph Medical Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Home &amp; Community </TD>
+
+<TD>✓ </TD>
+
+<TD>System Services Center </TD>
+</TR>
+
+<TR>
+<TD>✓ </TD>
+
+<TD>PeaceHealth Laboratories </TD>
+
+<TD>✓ </TD>
+
+<TD>United General Medical Center </TD>
+</TR>
+</Table>
+
+<H2 id="LinkTarget_226">PURPOSE </H2>
+
+<P>The purpose of this policy is to establish requirements and limitations related to access to PeaceHealth information systems and the information contained therein. </P>
+
+<H2 id="LinkTarget_228">DEFINITIONS </H2>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Allied Health Professional: An allied health professional is typically defined as a health professional other than a doctor, nurse, dentist, or pharmacist. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Caregiver: PeaceHealth employees, volunteers, trainees, and other persons whose conduct, in the performance of work for PeaceHealth, is under the direct control of PeaceHealth, whether or not they are paid by PeaceHealth. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Health Oversight Agency: An agency or authority of the United States, or a State, or territory, a political subdivision of a State, an Indian tribe, or a person or entity acting under a grant of authority from or contract with such public agency that is authorized by law to oversee the health care system (whether public or private) or government programs in which health information is necessary to determine eligibility or compliance, or to enforce civil rights laws for which health information is relevant. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Least privilege: Least privilege is the principle that persons or processes be granted the minimum level of permissions required to do their jobs or to perform their intended function. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Minimum necessary: Minimum necessary is based on a need-to-know and is the limited Protected Health Information (PHI) required to accomplish the intended purpose of the use or disclosure or request. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Privileged user: A user who is authorized to perform security-relevant functions that ordinary users are not authorized to perform. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Standard user account: Account used for day-to-day activities, such as accessing email and internet browsing. Standard account users can use most software and change system settings that do not affect other users. </LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>Users: Caregivers, providers, volunteers, students, and third parties who access PeaceHealth information systems. </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_262">POLICY </H2>
+
+<P>It is the policy of PeaceHealth that access to PeaceHealth information systems is based on the principle of least privilege, is limited to the minimum necessary, and is governed by role-based access controls to support operational needs. The following requirements are implemented to support access to PeaceHealth information systems that process, store, or transmit confidential information: </P>
+
+<H3>1.  Individual User Accounts </H3>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Each user of a PeaceHealth information system is assigned a unique user account in accordance with the PeaceHealth Account Management policy. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Individuals whose job responsibilities require elevated permissions are assigned privileged accounts in accordance with the PeaceHealth Account Management policy. </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>All PeaceHealth employed and third-party users must sign a Confidentiality Agreement, with the following exceptions: 
+<L>
+<LI>
+<Lbl>i. </Lbl>
+
+<LBody>State Facilities-Licensing Surveyors; </LBody>
+</LI>
+
+<LI>
+<Lbl>ii. </Lbl>
+
+<LBody>Registry Reviewers; </LBody>
+</LI>
+
+<LI>
+<Lbl>iii. </Lbl>
+
+<LBody>Det Norske Veritas (DNV), Joint Commission, or ACOS/COC Cancer Program, ACOS Trauma, or other Accreditation Surveyors; </LBody>
+</LI>
+
+<LI>
+<Lbl>iv. </Lbl>
+
+<LBody>Ombudsman; </LBody>
+</LI>
+
+<LI>
+<Lbl>v. </Lbl>
+
+<LBody>Auditors working for or under contract with a Health Oversight Agency; and </LBody>
+</LI>
+
+<LI>
+<Lbl>vi. </Lbl>
+
+<LBody>Others as required by law or contract. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+
+<H3>2.  User Responsibilities and Limitations </H3>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>All users are responsible for accessing information systems in a manner that supports the privacy and security of PeaceHealth's confidential information. </LBody>
+</LI>
+
+<LI>
+<Lbl>b. </Lbl>
+
+<LBody>Users must only access information systems within the scope of their position, and they must limit their access to the minimum necessary information required to effectively perform their work-related responsibilities. </LBody>
+</LI>
+
+<LI>
+<Lbl>c. </Lbl>
+
+<LBody>To perform privileged tasks, privileged users must first access systems using their standard user account before switching to their privileged user account. </LBody>
+</LI>
+
+<LI>
+<Lbl>d. </Lbl>
+
+<LBody>Users are prohibited from accessing their own health record and those of family members, friends, or persons with whom the user has an emotional attachment. The following conditions apply: 
+<L>
+<LI>
+<Lbl>i. </Lbl>
+
+<LBody>Access to health records of known persons as described above is not permitted unless it is for legitimate work-related tasks, if another caregiver qualified to perform the required task is unavailable, and clearance from the user's supervisor is obtained in advance. </LBody>
+</LI>
+
+<LI>
+<Lbl>ii. </Lbl>
+
+<LBody>Users may access their health information through the &quot;My PeaceHealth&quot; portal or by requesting a copy of their health record through the Health Information Management (HIM) department. </LBody>
+</LI>
+
+<LI>
+<Lbl>iii. </Lbl>
+
+<LBody>Authorization from the patient, written or otherwise, does not permit a user to access electronic patient health information for non-work-related purposes. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>e. </Lbl>
+
+<LBody>User access to clinical patient information is generally limited to the time period during which the user is directly involved in the patient's care or as otherwise necessary for their job duties, except as follows: 
+<L>
+<LI>
+<Lbl>i. </Lbl>
+
+<LBody>In order to determine the outcome of the care or treatment they provided, providers, allied health professionals, and medical social workers may access treatment records of patients in whose care or treatment they were directly involved. If the access occurs more than 30 days after direct involvement in the patient's care, the providers, allied health professionals, and medical social workers documentation must reflect the reason for the access. </LBody>
+</LI>
+
+<LI>
+<Lbl>ii. </Lbl>
+
+<LBody>If a clinical caregiver believes the patient's record would make a good case study, the caregiver contacts his/her manager. </LBody>
+</LI>
+</L>
+</LBody>
+</LI>
+</L>
+
+<H3>3.  Management Responsibilities </H3>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Managers are accountable for certain aspects of user account management as outlined in the PeaceHealth Account Management policy. </LBody>
+</LI>
+</L>
+
+<H3>4.  Reinstatement of Terminated Users </H3>
+
+<L>
+<LI>
+<Lbl>a. </Lbl>
+
+<LBody>Users whose access to PeaceHealth systems has been removed may seek to have their access restored as outlined in the PeaceHealth Account Management policy. </LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_346">COMPLIANCE </H2>
+
+<P>Individuals included in the scope of this policy are required to comply with the policy and all associated policies, standards, and procedures. Violations are subject to removal of access and/or corrective action, up to and including termination of employment or other business relationship with PeaceHealth. Any deviations from security standards observed in the production environment must be communicated to the Information Security department immediately upon discovery. If an exception to this policy is necessary, it must be submitted in accordance with the Information Security Policy and Standards Exceptions policy. </P>
+
+<H2 id="LinkTarget_348">HELP </H2>
+
+<P>Further information may be obtained by contacting the PeaceHealth Service Desk. </P>
+
+<H2 id="LinkTarget_350">RELATED MATERIAL </H2>
+
+<H3 id="LinkTarget_351">Policies &amp; Procedures: </H3>
+
+<L>
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Acceptable Use of PeaceHealth Information Technology Resources Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Access to, Use, and Disclosure of Protected Health Information Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Access Control Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Account Management Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Confidentiality, Security, and Privacy of PeaceHealth Information Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Use of the PeaceHealth Confidentiality Agreement Procedure </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Access to Electronic Patient Records for Educational and Training Purposes </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Minimum Necessary Requirements for Use &amp; Disclosure of Protected Health Information </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Information Security Exceptions Policy </Link>
+</LBody>
+</LI>
+
+<LI>
+<Lbl>• </Lbl>
+
+<LBody>
+<Link>Information Security Program Policy </Link>
+</LBody>
+</LI>
+</L>
+
+<H2 id="LinkTarget_393">PRE-POLICYSTAT APPROVALS </H2>
+
+<H3 id="LinkTarget_394">Initial Approval: </H3>
+
+<P>PeaceHealth President and CMO approved this policy on 07/03/2008. </P>
+
+<H3 id="LinkTarget_396">Subsequent Review/Revision(s): </H3>
+
+<P>President and CMO approved revision to this policy on 07/07/2011 OI Privacy Officer reviewed this policy on 06/03/2013; 07/08/2015 System Policy Committee approved revisions to this policy on 12/20/2016 Jeff Bird, System VP of Information Security approved revisions to this policy on 01/10/2020; 08/25/2020 NCPSC reviewed on 09/09/2020 </P>
+
+<P>Formerly known as document number 900.1.450 </P>
+
+<H2 id="LinkTarget_400">All Revision Dates </H2>
+8/25/2020, 1/10/2020, 12/20/2016, 1/22/2013, 7/7/2011, 2/3/2011 
+<H2 id="LinkTarget_402">Approval Signatures </H2>
+
+<P>Step Description </P>
+
+<P>Approver </P>
+
+<P>Date </P>
+
+<H2 id="LinkTarget_409">Standards </H2>
+
+<P>No standards are associated with this document </P>
+
+<H2 id="LinkTarget_411">History </H2>
+
+<P>Initial import on 12/21/2020, 1:19AM EST </P>
+
+<P>Accepted by Eubanks, Tammy: Prog Coord Policy Admin on 1/11/2021, 3:54PM EST </P>
+Administrator override by Hogan, Shaina: Dir Policy Admin on 2/2/2021, 7:23PM EST 
+<P>Moved from IT to Information Security </P>
+Origination date changed by Eubanks, Tammy: Prog Coord Policy Admin on 5/10/2021, 3:30PM EDT 
+<P>The origination date was changed to 7/1/2008 </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 5/10/2021, 3:30PM EDT 
+<P>Update to links and dates </P>
+Administrator override by Eubanks, Tammy: Prog Coord Policy Admin on 2/24/2022, 10:50AM EST 
+<P>Changed owner from Kerrie Morin to Jeff Johnson </P>
+Administrator override by Woods, Gloria: Policy Generalist on 12/9/2022, 2:04PM EST 
+<P>Updated to current template: moved Definitions (alphabetized and deleted obsolete PHD); added current Scope; relabeled subheading under Related Material; reworked subheadings to show on TOC. </P>
+</Document>
+</TaggedPDF-doc>
